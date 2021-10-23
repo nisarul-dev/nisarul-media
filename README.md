@@ -1,3 +1,7 @@
+<a href="https://www.nisarul.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/nisarul-media/nisarul-media/main/cover-photo.jpg" alt="profile" />
+</a>
+
 ### Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <!--
